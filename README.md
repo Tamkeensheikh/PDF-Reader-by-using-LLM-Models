@@ -4,6 +4,10 @@ The repo assist in analyzing the text from the pdf. The pdf has been read using 
 
 
 **Install the requirements file**
+
+
 pip install -r requirements.txt
 
 Run the app.py file and get the results
+
+You can get your very own API_KEY through: https://aistudio.google.com/app/apikey 
